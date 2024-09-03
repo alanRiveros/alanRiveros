@@ -1,6 +1,6 @@
 ## Hi, I'm Alan 👋
 
-## <picture><img src="https://github.com/alaRiveros/alanRiveros/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img align="left" src="https://github.com/alaRiveros/alanRiveros/blob/main/Images/about_me.gif" width="200" alt="About Me Image"> About me
 
 I'm an indie developer with a passion for exploring the boundaries of technology and creativity. My journey spans across **competitive programming**, writing, and creating content on YouTube. I have a deep love for **music**, **engineering**, **graphic novels**, and **anime**.
 
