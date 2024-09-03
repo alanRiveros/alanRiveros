@@ -1,8 +1,16 @@
 ## Hi, I'm Alan 👋
 
-## About me
+## <picture><img src="https://github.com/alaRiveros/alanRiveros/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 I'm an indie developer with a passion for exploring the boundaries of technology and creativity. My journey spans across **competitive programming**, writing, and creating content on YouTube. I have a deep love for **music**, **engineering**, **graphic novels**, and **anime**.
+
+You can also follow me on... 👇
+
+Twitch 🟣 : https://twitch.tv/midudev
+YouTube 📹 : https://www.youtube.com/c/midudev?sub_confirmation=1
+Twitter 🐦 : https://twitter.com/midudev
+Instagram 📸 : https://www.instagram.com/midu.dev/
+Github 🐙: https://github.com/midudev
 
 ### Technologies I Love 💻
 
