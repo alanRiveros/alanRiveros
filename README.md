@@ -6,11 +6,10 @@ I'm an indie developer with a passion for exploring the boundaries of technology
 
 You can also follow me on... 👇
 
-Twitch 🟣 : https://twitch.tv/midudev
-YouTube 📹 : https://www.youtube.com/c/midudev?sub_confirmation=1
-Twitter 🐦 : https://twitter.com/midudev
-Instagram 📸 : https://www.instagram.com/midu.dev/
-Github 🐙: https://github.com/midudev
+Twitch 🟣 : https://twitch.tv/alanTecno.ok  
+YouTube 📹 : https://www.youtube.com/@AlanRiverosDev?sub_confirmation=1  
+Twitter 🐦 : https://twitter.com/alanTecnoOk  
+Instagram 📸 : https://www.instagram.com/alantecno.ok/  
 
 ### Technologies I Love 💻
 
