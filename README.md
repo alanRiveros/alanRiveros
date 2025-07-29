@@ -1,28 +1,61 @@
 ## Hi, I'm Alan 👋
 
+### 🧠 Indie CTO • Tech Strategist • Engineer Obsessed with Scale and Creativity
+
+---
+
 ## <picture><img src="https://github.com/alaRiveros/alanRiveros/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I'm an indie developer with a passion for exploring the boundaries of technology and creativity. My journey spans across **competitive programming**, writing, and creating content on YouTube. I have a deep love for **music**, **engineering**, **graphic novels**, and **anime**.
+I’m building the future one system at a time — crafting scalable architectures, automating workflows with AI, and pushing technology into new creative frontiers.
 
-You can also follow me on... 👇
+My journey no longer revolves around indie dev or educational content. I'm consolidating my path as a **CTO, systems architect, and builder of intelligent products**. I'm deeply passionate about music, engineering, drawing, distributed systems, machine learning, and sci-fi tactical games.
 
-Twitch 🟣 : https://twitch.tv/alanTecno.ok  
-YouTube 📹 : https://www.youtube.com/@AlanRiverosDev?sub_confirmation=1  
-Twitter 🐦 : https://twitter.com/alanTecnoOk  
-Instagram 📸 : https://www.instagram.com/alantecno.ok/  
+---
 
-### Technologies I Love 💻
+## 🔧 Tech Pillars
 
-- **Frontend:** ReactJS
-- **Blockchain Enthusiast:** Exploring decentralized applications and smart contracts with Solidity
-- **Machine Learning:** Enthusiastic about data-driven systems
-- **Game Development:** Creating immersive experiences
-- **System Design:** Architecting robust, scalable solutions
-- **Managing & Security:** Ensuring efficient processes and secure systems
+### 🧩 **Systems Architecture**
+- Scalable APIs, event-driven systems, microservices, queue management, data modeling.
+- High-performance solutions with Redis, RabbitMQ, MySQL/PostgreSQL, Elasticsearch, Prometheus, Grafana.
 
-### My Toolkit 🛠️
+### 🛠️ **Languages & Tools**
+- Languages: `PHP`, `JavaScript`, `Python`, `.NET`, `Java`, `Solidity`, `SQL`
+- Tools: `Docker`, `Git`, `Vim`, `Linux`, `Bash`, `Postman`, `n8n`, `Ollama`, `OpenAI`, `HuggingFace`
 
-- **Languages:** PHP, JavaScript, Python, .NET, Java, Solidity, SQL
-- **Tools:** Vim, Git, Docker
+### 🧠 **AI & Automation**
+- Applying LLMs in production
+- Real-time AI-assisted interfaces (RAG, embeddings, agents)
+- Workflow automation using AI-native pipelines
 
-Whether it’s building decentralized systems, diving deep into machine learning, or crafting games, I'm always looking for new challenges. Let’s connect and create something awesome together! 🚀
+### 🔐 **Security & Management**
+- Senior experience in incident response, production-readiness, token/auth flows
+- Secure API Gateways, key management, monitoring, alerts & role-based access
+- Leading multidisciplinary teams with autonomy
+
+### 💎 **Other Deep Interests**
+- Game Dev with custom engines
+- Blockchain & DeFi architecture
+- FPGA, AI hardware acceleration & custom neural ops
+- Mentorship & developer growth frameworks
+
+---
+
+## 🔥 Currently Building
+
+- ✨ An IA-assisted sketching tool for artists using `Three.js`, `React`, and `Stable Diffusion`
+- ⚙️ Personal AI assistant infrastructure (LLMs + n8n + vector DB)
+- 🧠 Experiments with AI agents coordinating between business, coding and content
+- 💡 Tech strategy content for devs who want to think like CTOs
+
+---
+
+## 🧭 Let’s Connect
+
+📺 YouTube: [AlanRiverosDev](https://www.youtube.com/@AlanRiverosDev?sub_confirmation=1)  
+🐦 Twitter: [@alanTecnoOk](https://twitter.com/alanTecnoOk)  
+📸 Instagram: [@alantecno.ok](https://www.instagram.com/alantecno.ok/)  
+🟣 Twitch: [alanTecno.ok](https://twitch.tv/alanTecno.ok)  
+
+---
+
+> — Alan Riveros
